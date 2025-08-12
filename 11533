@@ -1,26 +1,0 @@
-<!DOCTYPE html>
-<html lang="fa">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>بهترین بازی‌های دنیا</title>
-  <meta name="description" content="معرفی بازی‌های محبوب مثل GTA V، Minecraft و The Witcher 3 با توضیحات فارسی و لینک دانلود از گوگل پلی.">
-</head>
-<body dir="rtl">
-  <h1>بهترین بازی‌های دنیا</h1>
-
-  <h2>GTA V 🎮</h2>
-  <p>بازی جهان‌باز با داستان جذاب، گرافیک بالا و آزادی عمل بی‌نظیر.</p>
-  <a href="https://play.google.com/store/search?q=GTA+V&c=apps&hl=fa" target="_blank">دانلود از گوگل پلی</a>
-
-  <h2>Minecraft 🧱</h2>
-  <p>بازی خلاقانه با دنیای بی‌نهایت، مناسب برای همه‌ی سنین.</p>
-  <a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=fa" target="_blank">دانلود از گوگل پلی</a>
-
-  <h2>The Witcher 3 ⚔️</h2>
-  <p>بازی نقش‌آفرینی با داستان عمیق، گرافیک عالی و دنیای فانتزی.</p>
-  <a href="https://play.google.com/store/search?q=The+Witcher+3&c=apps&hl=fa" target="_blank">جستجو در گوگل پلی</a>
-
-  <p>ساخته شده با عشق توسط محمد ❤️</p>
-</body>
-</html>
